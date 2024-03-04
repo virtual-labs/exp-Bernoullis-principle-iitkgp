@@ -7,7 +7,7 @@
 
 ### About the Experiment 
 
-To study the principle and dependent parameters of advanced welding processes like laser welding and friction stir welding.
+To measure the distribution of the difference between the total pressure and static pressure along the duct to compare theoretical and experimental results.
 
 # Subject Matter Experts
 | SNo. | Name | Email | Department | Institute | Profile |
