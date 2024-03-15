@@ -3,7 +3,7 @@
 <b>Discipline | <b> Aerospace Engineerig
 :--|:--|
 <b> Lab | <b> Aerodyamics Lab
-<b> Experiment|     <b> Verification and application of Bernoulli's equation and Experiment 1
+<b> Experiment|     <b> Verification of Bernoulli's equation and Experiment 1
 
 ### About the Experiment 
 
