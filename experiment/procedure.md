@@ -111,7 +111,7 @@ A multi-tube manometer is a manometer that is capable of acquiring multiple numb
 
   
 
-A pitot-static tube is a probe that, when kept in flow, measures the flow's total pressure and static pressure at any particular location. In this experiment, we traverse the pitot-static tube from the top of the convergent, divergent test section to the bottom and record the total pressure and static pressure at all different locations.
+A pitot-static tube is a probe, when kept in flow, measures the flow's total pressure and static pressure at any particular location. In this experiment, we traverse the pitot-static tube from the top of the convergent, divergent test section to the bottom and record the total pressure and static pressure at all different locations.
 
   
   
