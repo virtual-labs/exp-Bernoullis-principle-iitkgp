@@ -19,7 +19,7 @@ From incompressible continuity equation,
 </center>
 
 <center>
-<img src="./images/eq3.png" alt="equation 3"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (3)
+<img src="./images/eq3.png" style="width:12%;"alt="equation 3"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (3)
 </center>
 
 From Bernoulli's equation,
