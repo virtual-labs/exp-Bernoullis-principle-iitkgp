@@ -3,7 +3,7 @@
 In modern everyday life there are many observations that can be successfully explained by application of Bernoulli's principle, even though no real fluid is entirely in-viscid, e.g. to calculate the lift force on an airfoil, to determine the airspeed of the aircraft using the pitot tube etc. are some most famous examples.
 
 ## Formal Statement:
-Bernoulli's Principle is essentially a work energy conservation principle which states that for an ideal fluid with no work being performed on the fluid, total energy remains constant. An increase in the speed of the fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid potential energy. Bernoulli's Principle is named in honor of Daniel Bernoulli. 
+Bernoulli's Principle is essentially a work-energy conservation principle which states that for an ideal fluid with no work being performed on the fluid, total energy remains constant. An increase in the speed of the fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid potential energy. Bernoulli's Principle is named in honor of Daniel Bernoulli. 
 
 
 ## Mathematical Description:
